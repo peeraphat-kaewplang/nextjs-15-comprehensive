@@ -1,0 +1,13 @@
+/* app/_components/MyButton/MyButton.module.css */
+.customButton {
+  background-color: #0070f3;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+.customButton:hover {
+  background-color: #005bb5;
+}
